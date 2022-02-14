@@ -1,0 +1,21 @@
+[submodule "/Users/zapp/.vim/pack/plugins/start/nerdtree"]
+	path = /Users/zapp/.vim/pack/plugins/start/nerdtree
+	url = https://github.com/scrooloose/nerdtree
+[submodule "/Users/zapp/.vim/pack/plugins/start/vim-devicons"]
+	path = /Users/zapp/.vim/pack/plugins/start/vim-devicons
+	url = https://github.com/ryanoasis/vim-devicons.git
+[submodule "/Users/zapp/.vim/pack/plugins/start/vim-nerdtree-syntax-highlight"]
+	path = /Users/zapp/.vim/pack/plugins/start/vim-nerdtree-syntax-highlight
+	url = https://github.com/tiagofumo/vim-nerdtree-syntax-highlight.git
+[submodule "/Users/zapp/.vim/pack/plugin/start/vim-ruby"]
+	path = /Users/zapp/.vim/pack/plugin/start/vim-ruby
+	url = https://github.com/vim-ruby/vim-ruby.git
+[submodule "/Users/zapp/.vim/pack/plugins/start/vim-airline"]
+	path = /Users/zapp/.vim/pack/plugins/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
+[submodule "/Users/zapp/.vim/pack/plugins/start/vim-airline-themes"]
+	path = /Users/zapp/.vim/pack/plugins/start/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes.git
+[submodule "/Users/zapp/.vim/pack/colors/start/sonokai.git"]
+	path = /Users/zapp/.vim/pack/colors/start/sonokai.git
+	url = https://github.com/sainnhe/sonokai.git
