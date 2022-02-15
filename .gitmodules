@@ -19,3 +19,6 @@
 [submodule "/Users/zapp/.vim/pack/colors/start/sonokai.git"]
 	path = /Users/zapp/.vim/pack/colors/start/sonokai.git
 	url = https://github.com/sainnhe/sonokai.git
+[submodule "/Users/zapp/.dotfiles/vim/.vim/pack/plugins/start/vimtex"]
+	path = /Users/zapp/.dotfiles/vim/.vim/pack/plugins/start/vimtex
+	url = https://github.com/lervag/vimtex.git
